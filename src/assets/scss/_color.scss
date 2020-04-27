@@ -1,0 +1,32 @@
+$bg-color: #FAFAFA;
+
+$main-color: #34495E;
+
+$main-dark-color: #263645;
+
+$small-color: #70777C;
+
+$many-color: #11787A;
+
+$median-color: #E67E22;
+
+
+.bg-many {
+  background-color: $many-color;
+}
+
+.bg-median {
+  background-color: $median-color;
+}
+
+.bg-small {
+  background-color: $small-color;
+}
+
+.text-main {
+  color: $main-color;
+}
+
+.text-small {
+  color: $small-color;
+}

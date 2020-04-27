@@ -1,0 +1,81 @@
+// a
+
+a.text-small {
+  color: $small-color;
+  &:hover {
+    color: $small-color;
+  }
+}
+
+// navbar
+
+.nav-link.text-main {
+  color: $main-color;
+  &:hover {
+    color: $main-dark-color;
+  }
+  &.active {
+    color: $main-dark-color;
+    font-weight: bold;
+    border-bottom: 2px solid $main-dark-color;
+  }
+}
+
+.nav-logo {
+  color: $main-color;
+  &:hover{
+    color: $main-dark-color;
+  }
+}
+
+.active {
+  color: $main-dark-color;
+}
+
+// select
+
+select.text-main {
+  color: $main-color;
+  &:focus {
+    border-color: $main-color;
+    box-shadow:0 0 0 0.2rem rgba(52,73,94,.25);
+  }
+}
+
+// btn
+
+.btn-outline-main {
+  color: $main-color;
+  border-color: $main-color;
+  &:hover {
+  color: #fff;
+  background-color: $main-color;
+  border-color: $main-color;
+  }
+  &:active {
+    background-color: $main-dark-color;
+    border-color: $main-dark-color;
+  }
+}
+
+.btn-main {
+  color: #fff;
+  background-color: $main-color;
+  border-color: $main-color;
+  &:hover {
+    color: #fff;
+    background-color: $main-dark-color;
+  }
+
+  &:active {
+    background-color: $main-dark-color;
+    border-color: $main-dark-color;
+  }
+}
+
+// table
+
+.table td {
+  border-top: 0px;
+  padding: 14px 0 0 0;
+}

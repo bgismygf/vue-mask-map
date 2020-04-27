@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/functions";
+@import "_variables";
+@import "~bootstrap/scss/bootstrap";
+@import "_color";
+@import "_border";
+@import "_font";
+@import "_form";
+
+body {
+  background-color: $bg-color;
+  font-family:"Helvetica Neue", Helvetica, "segoe ui", "microsoft jhenghei", "microsoft mhei", stheititc, sans-serif;
+}
