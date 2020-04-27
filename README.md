@@ -1,24 +1,7 @@
-# maskmap
+# Mask Map
 
-## Project setup
-```
-npm install
-```
+![Mask Map](https://i.postimg.cc/mrj1YM6W/m.jpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Demo](https://bgismygf.github.io/vue-mask-map/#)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[PY Design 設計稿](https://xd.adobe.com/view/6e126433-68ec-45ce-6c7d-62ac0cede399-1823/)
