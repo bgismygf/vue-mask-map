@@ -162,7 +162,7 @@
           </div>
         </div>
         <div class="col-lg-7">
-          <div class="d-none d-lg-block" id="map" style="height: 500px;"></div>
+          <div class="d-none d-lg-block" id="map" style="height: calc(100vh - 115px)"></div>
         </div>
       </div>
     </div>
